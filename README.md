@@ -1,4 +1,4 @@
-# UVM_Based_Verification_Sync_FIFO
+# UVM-Based-Verification-Sync_FIFO
 
 UVM-based functional verification project for a **Synchronous FIFO** design using Universal Verification Methodology (UVM) and industry best practices. This project demonstrates constrained-random stimulus generation, assertion-based verification, and functional + code coverage closure.
 
